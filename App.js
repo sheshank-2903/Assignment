@@ -16,7 +16,7 @@ export default class App extends Component  {
       firstLaunch: true,
     }
     GoogleSignin.configure({
-      androidClientId: '114112548611-4hpjlt0pe0rvpbk0ncjlkj3f66n4d0bc.apps.googleusercontent.com',
+      androidClientId: </PASTE YOUR CLIENT ID HERE/>,
   });
 }
 
